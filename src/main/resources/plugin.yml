@@ -1,0 +1,5 @@
+main: me.carandev.exampleplugin.App
+
+name: ExamplePlugin
+
+version: "0.1"
