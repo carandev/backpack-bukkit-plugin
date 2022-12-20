@@ -1,4 +1,4 @@
-package me.carandev.exampleplugin;
+package me.carandev.backpackplugin;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
@@ -9,7 +9,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 public class App extends JavaPlugin {
   @Override
   public void onEnable() {
-    getLogger().info("Hola, está de locos SpigotMC, es maravilloso!");
+    getLogger().info("Hola mundo");
   }
 
   @Override

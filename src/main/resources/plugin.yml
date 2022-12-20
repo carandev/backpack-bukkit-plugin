@@ -1,4 +1,4 @@
-main: me.carandev.exampleplugin.App
+main: me.carandev.backpackplugin.App
 
 name: ExamplePlugin
 
